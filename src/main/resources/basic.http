@@ -1,0 +1,3 @@
+GET localhost:7010/basic/all?page=2&size=5
+
+###
